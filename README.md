@@ -1,156 +1,166 @@
+<!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:090e1a,45:172554,100:0891b2&text=KARTHICK%20E&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%20%7C%20%20API%20INTEGRATION&descAlignY=59&descSize=16&animation=fadeIn" width="100%" alt="Karthick E — Backend Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080d18,45:102a43,100:0e7490&text=KARTHICK%20E&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=BACKEND%20DEVELOPMENT%20%7C%20API%20INTEGRATION%20%7C%20AI%20AUTOMATION&descAlignY=60&descSize=13&animation=fadeIn" alt="Karthick E portfolio header" />
 
-<img src="https://avatars.githubusercontent.com/u/292429785?v=4" width="150" height="150" alt="Karthick E GitHub profile photo" />
+<br/>
 
-### Hi, I'm Karthick 👋
+<img src="https://avatars.githubusercontent.com/u/292429785?v=4" width="138" height="138" alt="Karthick E GitHub profile photo" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=I+build+backend+applications;I+work+with+APIs+and+databases;I+explore+AI+agents+and+automation;Always+learning.+Always+building." alt="Animated introduction" />
+# Karthick E
 
-<p>
-  <a href="https://linkedin.com/in/karthick-e-1365a3422"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/karthick-ATNR"><img src="https://img.shields.io/badge/GitHub-Follow-20232a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=karthick-ATNR&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+### Building practical backend systems, one project at a time.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=NestJS+%2B+TypeScript;REST+APIs+%2B+Database+Integration;Exploring+MCP%2C+AI+Agents+%26+n8n" alt="Backend development and learning focus" />
+
+<br/>
+
+<a href="https://linkedin.com/in/karthick-e-1365a3422"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/karthick-ATNR"><img src="https://img.shields.io/badge/GITHUB-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=karthick-ATNR&style=flat-square&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
+
 </div>
 
 ---
 
-## 01 / About Me
+## <img src="https://img.shields.io/badge/01-ABOUT-0e7490?style=flat-square" alt="01 About" />
 
-I'm a BCA graduate focused on backend development and building practical software. I enjoy understanding how systems connect — from designing REST APIs and working with databases to exploring AI-powered automation.
-
-| | |
-|:--|:--|
-| 🎓 **Education** | Bachelor of Computer Applications |
-| ⚡ **Primary focus** | NestJS · TypeScript · REST APIs |
-| 🗄️ **Database** | PostgreSQL · MySQL |
-| 🧠 **Exploring** | MCP · AI Agents · n8n |
-| 🎯 **Goal** | Grow as a software developer by building real-world applications |
-
-## 02 / Tech Stack
-
-<div align="center">
-
-**LANGUAGES & FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap&theme=dark" alt="JavaScript, TypeScript, React, HTML, CSS and Bootstrap" />
-
-**BACKEND & DATABASE**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql&theme=dark" alt="Node.js, Express, NestJS, PostgreSQL and MySQL" />
-
-**TOOLS & WORKFLOW**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode&theme=dark" alt="Docker, Git, GitHub, Postman and VS Code" />
-
-</div>
-
-<details>
-<summary><b>Full technical toolkit</b></summary>
-<br/>
-
-- **Languages:** JavaScript, TypeScript, SQL
-- **Frontend:** React.js, HTML5, CSS3, Bootstrap
-- **Backend:** Node.js, Express.js, NestJS
-- **Databases:** PostgreSQL, MySQL
-- **API & Security:** REST APIs, CRUD, Postman, JWT, OAuth 2.0
-- **AI & Automation:** Gemini API, Groq API, Function Calling, MCP concepts, n8n
-- **Tools:** Git, GitHub, VS Code, Docker, Docker Compose
-
-</details>
-
-## 03 / Featured Projects
+I'm a **BCA graduate** interested in backend engineering, API development, and software integrations. I enjoy learning how applications communicate, how data moves between systems, and how reliable services are built.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 Zoho CRM ↔ Xero
+**CURRENT FOCUS**
 
-Backend integration work connecting business platforms through API workflows.
-
-- Contacts and Leads operations
-- OAuth 2.0 authorization flow
-- NestJS modules and controllers
-
-**Stack**
-
-NestJS · TypeScript · PostgreSQL · OAuth 2.0
+- Backend application development
+- REST API design and integration
+- Database-driven applications
+- Authentication and authorization
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 Inventory Management
+**ALSO EXPLORING**
 
-Backend application for inventory operations and role-based access.
+- AI agents and function calling
+- Model Context Protocol (MCP)
+- n8n workflow automation
+- Docker-based development
+
+</td>
+</tr>
+</table>
+
+## <img src="https://img.shields.io/badge/02-TECHNOLOGIES-0e7490?style=flat-square" alt="02 Technologies" />
+
+<div align="center">
+
+**LANGUAGES & FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap&theme=dark" alt="JavaScript, TypeScript, React, HTML, CSS, Bootstrap" />
+
+**BACKEND & DATA**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql&theme=dark" alt="Node.js, Express, NestJS, PostgreSQL, MySQL" />
+
+**DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode&theme=dark" alt="Docker, Git, GitHub, Postman, VS Code" />
+
+</div>
+
+<details>
+<summary><b>More tools and concepts</b></summary>
+
+- **API & Security:** REST APIs, CRUD, JWT, OAuth 2.0
+- **AI & Automation:** Gemini API, Groq API, Function Calling, MCP concepts, n8n
+- **Workflow:** Git, GitHub, Postman, Docker Compose
+
+</details>
+
+## <img src="https://img.shields.io/badge/03-SELECTED%20PROJECTS-0e7490?style=flat-square" alt="03 Selected projects" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Zoho CRM × Xero Integration
+
+Backend integration work connecting CRM and accounting workflows.
+
+- Contact and lead API operations
+- OAuth 2.0 authentication flow
+- NestJS modules and controllers
+
+<sub>**NestJS · TypeScript · PostgreSQL · REST API**</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Inventory Management System
+
+A backend application for managing inventory and access by role.
 
 - Products, categories and suppliers
 - Stock and stock movement modules
 - Admin, Manager and Staff roles
 
-**Stack**
-
-NestJS · PostgreSQL · Docker · TypeScript
+<sub>**NestJS · TypeScript · PostgreSQL · Docker**</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ K-Shop E-Commerce
+### ◈ K-Shop E-Commerce
 
-React-based e-commerce website focused on product presentation and user experience.
+A React-based e-commerce interface focused on product presentation.
 
-- Product-focused UI components
-- Frontend page development
-- Responsive design practice
+- Product-focused UI development
+- Reusable frontend components
+- Responsive layout practice
 
-**Stack**
-
-React · JavaScript · HTML5 · CSS3
+<sub>**React · JavaScript · HTML · CSS**</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI & Workflow Automation
+### ◈ AI & Workflow Experiments
 
-Hands-on learning with AI-powered workflows and integrations.
+Hands-on exploration of AI APIs and workflow automation.
 
-- Groq and Gemini API exploration
+- Gemini and Groq API integration practice
 - Function calling and MCP concepts
-- n8n agents and workflow automation
+- n8n AI Agent workflows
 
-**Stack**
-
-Groq · Gemini · MCP · n8n
+<sub>**Groq · Gemini · MCP · n8n**</sub>
 
 </td>
 </tr>
 </table>
 
-## 04 / Currently Exploring
+## <img src="https://img.shields.io/badge/04-CURRENTLY%20LEARNING-0e7490?style=flat-square" alt="04 Currently learning" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=2DD4BF&center=true&vCenter=true&width=700&lines=NestJS+%2B+TypeScript;REST+API+Architecture+%2B+OAuth;MCP+Servers+%2B+AI+Agents;n8n+Workflow+Automation" alt="Learning focus animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2400&pause=850&color=2DD4BF&center=true&vCenter=true&width=620&lines=Advanced+NestJS+patterns;API+security+and+OAuth;MCP+servers+and+AI+agents;n8n+workflow+automation" alt="Current learning topics" />
 
 </div>
 
-- Designing maintainable backend applications
-- Building and integrating REST APIs
-- Understanding MCP servers, tools and AI agent workflows
-- Practicing automation with n8n
-
-## 05 / GitHub Activity
+## <img src="https://img.shields.io/badge/05-GITHUB%20OVERVIEW-0e7490?style=flat-square" alt="05 GitHub overview" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karthick-ATNR&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=2dd4bf" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-ATNR&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="170" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=karthick-ATNR&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=2dd4bf" alt="GitHub statistics" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-ATNR&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Most used languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthick-ATNR&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=2dd4bf&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthick-ATNR&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=2dd4bf&area=true&hide_border=true" alt="GitHub contribution activity" />
 
 </div>
 
@@ -158,12 +168,16 @@ Groq · Gemini · MCP · n8n
 
 <div align="center">
 
-### Let's build something meaningful.
+### Open to learning, building, and collaborating.
 
-<a href="https://linkedin.com/in/karthick-e-1365a3422">LinkedIn</a> · <a href="https://github.com/karthick-ATNR">GitHub</a>
+<a href="https://linkedin.com/in/karthick-e-1365a3422">Connect on LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/karthick-ATNR">Explore my repositories</a>
 
-<sub>Curiosity drives me. Consistency moves me forward.</sub>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:090e1a,50:172554,100:0891b2" width="100%" alt="Footer banner" />
+<sub><i>Learn continuously. Build thoughtfully. Improve every day.</i></sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:080d18,50:102a43,100:0e7490" alt="Portfolio footer" />
 
 </div>
