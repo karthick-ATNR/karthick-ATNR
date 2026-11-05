@@ -1,36 +1,36 @@
-<!-- Karthick E | Professional Developer Portfolio -->
+<!-- Karthick E | GitHub Profile README -->
 <div align="center">
 
-<img src="assets/hero-terminal.svg" width="100%" alt="Karthick E — animated developer portfolio banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080d1b,45:172554,100:0e7490&height=170&section=header&text=Karthick%20E&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Development%20%7C%20API%20Integrations&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Animated profile header" />
+
+<img src="assets/hero-terminal.svg" width="100%" alt="Karthick E developer portfolio banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=NestJS+%7C+TypeScript+%7C+PostgreSQL;Building+REST+APIs+and+integrations;Exploring+MCP%2C+AI+Agents+%26+n8n;Learning+by+building+real+projects" alt="Animated typing introduction" />
 
 <p>
-  <a href="https://linkedin.com/in/karthick-e-1365a3422"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/karthick-ATNR"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=karthick-ATNR&style=flat-square&color=64748b&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://linkedin.com/in/karthick-e-1365a3422"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/karthick-ATNR"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
 </div>
 
 ---
 
-## About
+## About Me
 
-I'm a BCA graduate interested in building useful software and understanding how applications work behind the scenes. My current focus is backend development, API integration, databases, and practical AI automation.
+BCA graduate interested in building useful software and understanding how applications work behind the scenes. My current focus is backend development, API integration, databases, and practical AI automation.
 
-- **Education:** Bachelor of Computer Applications (BCA)
-- **Core focus:** NestJS, TypeScript, REST APIs, PostgreSQL
-- **Exploring:** Model Context Protocol (MCP), AI agents, function calling, n8n
-- **Career interest:** Entry-level software development opportunities and collaborative projects
+- 🎓 **Education:** Bachelor of Computer Applications (BCA)
+- ⚙️ **Core focus:** NestJS, TypeScript, REST APIs, PostgreSQL
+- 🧠 **Exploring:** Model Context Protocol (MCP), AI agents, function calling, n8n
+- 🤝 **Interested in:** Entry-level software development opportunities and collaborative projects
 
-## Technology
+## Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,nodejs,express,nestjs,postgres,mysql,docker,git,github,vscode,postman&perline=8" alt="Technologies and developer tools" />
-
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,nodejs,express,nestjs,postgres,mysql,docker,git,github,vscode,postman&perline=8" alt="Technology stack icons" />
 </div>
 
-| Area | Skills |
+| Area | Technologies |
 |---|---|
 | Languages | JavaScript · TypeScript · SQL |
 | Frontend | React.js · HTML5 · CSS3 · Bootstrap |
@@ -40,13 +40,9 @@ I'm a BCA graduate interested in building useful software and understanding how 
 | AI & Automation | Gemini API · Groq API · Function Calling · MCP · n8n |
 | Tools | Git · GitHub · VS Code · Docker · Docker Compose |
 
-## Selected Work
+## Featured Projects
 
-<div align="center">
-<img src="assets/project-showcase.svg" width="100%" alt="Animated showcase of three software projects" />
-</div>
-
-### Zoho CRM ↔ Xero Integration
+### 01 · Zoho CRM ↔ Xero Integration
 
 Backend integration work focused on connecting Zoho CRM and Xero through API-based workflows.
 
@@ -56,11 +52,7 @@ Backend integration work focused on connecting Zoho CRM and Xero through API-bas
 
 **Stack:** NestJS · TypeScript · PostgreSQL · REST APIs · OAuth 2.0
 
-<div align="center">
-<img src="assets/api-integration-flow.svg" width="94%" alt="Conceptual API integration flow between Zoho CRM, NestJS, and Xero" />
-</div>
-
-### Inventory Management System
+### 02 · Inventory Management System
 
 A backend application for managing inventory operations and user access.
 
@@ -70,7 +62,7 @@ A backend application for managing inventory operations and user access.
 
 **Stack:** NestJS · TypeScript · PostgreSQL · Docker · Docker Compose
 
-### K-Shop E-Commerce Website
+### 03 · K-Shop E-Commerce Website
 
 A React-based e-commerce website focused on product presentation and a user-friendly interface.
 
@@ -79,10 +71,10 @@ A React-based e-commerce website focused on product presentation and a user-frie
 
 **Stack:** React.js · JavaScript · HTML5 · CSS3
 
-## What I'm Learning
+## Currently Learning
 
 <div align="center">
-<img src="assets/learning-console.svg" width="100%" alt="Animated current learning focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2400&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=NestJS+and+TypeScript;REST+API+design+and+OAuth+2.0;MCP+architecture+and+AI+agents;n8n+workflow+automation" alt="Animated learning topics" />
 </div>
 
 - Building maintainable backend applications with NestJS and TypeScript
@@ -90,15 +82,12 @@ A React-based e-commerce website focused on product presentation and a user-frie
 - Understanding MCP architecture and AI agent tool execution
 - Exploring workflow automation with n8n and AI integrations
 
-## GitHub Activity
+## GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthick-ATNR&bg_color=0a1020&color=9fb2ca&line=38bdf8&point=2dd4bf&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthick-ATNR&bg_color=0a1020&color=9fb2ca&line=38bdf8&point=2dd4bf&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 <img src="https://github-readme-stats.vercel.app/api?username=karthick-ATNR&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0a1020&title_color=7dd3fc&text_color=cbd5e1&icon_color=2dd4bf" width="49%" alt="GitHub statistics" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-ATNR&layout=compact&hide_border=true&langs_count=8&bg_color=0a1020&title_color=7dd3fc&text_color=cbd5e1" width="49%" alt="Most used languages" />
-
 </div>
 
 ## Contribution Animation
@@ -121,6 +110,5 @@ A React-based e-commerce website focused on product presentation and a user-frie
 
 <sub>Curious by nature. Practical by approach. Always improving.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1020,55:172554,100:0e7490&height=95&section=footer&animation=fadeIn" width="100%" alt="Portfolio footer" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080d1b,50:172554,100:0e7490&height=110&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
 </div>
