@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="250" viewBox="0 0 1100 250" role="img" aria-labelledby="t d">
+<title id="t">Developer learning console</title><desc id="d">Animated terminal dashboard showing backend engineering learning focus.</desc>
+<defs>
+ <linearGradient id="b" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#102d3c"/></linearGradient>
+ <linearGradient id="bar"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+ <style>
+ .m{font-family:Consolas,monospace}.dim{fill:#7895a8}.txt{fill:#d7e6ef}
+ .cursor{animation:blink .9s steps(2,start) infinite}
+ .grow{transform-box:fill-box;transform-origin:left;animation:grow 2.4s ease-in-out infinite alternate}
+ .entry{animation:fade 1s both}
+ .e2{animation-delay:.3s}.e3{animation-delay:.6s}.e4{animation-delay:.9s}
+ @keyframes blink{to{opacity:0}}
+ @keyframes grow{from{transform:scaleX(.72)}to{transform:scaleX(1)}}
+ @keyframes fade{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:translateY(0)}}
+ </style>
+</defs>
+<rect width="1100" height="250" rx="20" fill="url(#b)" stroke="#1e4658"/>
+<rect x="1" y="1" width="1098" height="43" rx="19" fill="#102235"/>
+<circle cx="25" cy="22" r="5" fill="#fb7185"/><circle cx="44" cy="22" r="5" fill="#fbbf24"/><circle cx="63" cy="22" r="5" fill="#34d399"/>
+<text x="550" y="27" text-anchor="middle" class="m dim" font-size="13">learning-roadmap.sh</text>
+<g transform="translate(42 79)">
+ <text class="m" fill="#6ee7b7" font-size="15">$ cat current-focus.json</text>
+ <text y="38" class="m txt entry" font-size="16">{ "backend": "NestJS + TypeScript",</text>
+ <text y="68" class="m txt entry e2" font-size="16">  "data": "PostgreSQL + SQL",</text>
+ <text y="98" class="m txt entry e3" font-size="16">  "integration": "REST + OAuth 2.0",</text>
+ <text y="128" class="m txt entry e4" font-size="16">  "exploring": ["MCP", "AI Agents", "n8n"] }</text>
+ <text y="164" class="m" fill="#67e8f9" font-size="14">$ <tspan fill="#d7e6ef">progress --keep-learning</tspan><tspan class="cursor" fill="#67e8f9">_</tspan></text>
+</g>
+<g transform="translate(700 78)">
+ <text class="m dim" font-size="12">LEARNING IN MOTION</text>
+ <g transform="translate(0 21)">
+  <text class="m txt" font-size="13">Backend engineering</text><rect x="0" y="11" width="330" height="7" rx="4" fill="#18394a"/><rect x="0" y="11" width="270" height="7" rx="4" fill="url(#bar)" class="grow"/>
+  <text y="52" class="m txt" font-size="13">API integration</text><rect x="0" y="63" width="330" height="7" rx="4" fill="#18394a"/><rect x="0" y="63" width="230" height="7" rx="4" fill="url(#bar)" class="grow" style="animation-delay:.5s"/>
+  <text y="104" class="m txt" font-size="13">AI &amp; workflow automation</text><rect x="0" y="115" width="330" height="7" rx="4" fill="#18394a"/><rect x="0" y="115" width="165" height="7" rx="4" fill="url(#bar)" class="grow" style="animation-delay:1s"/>
+ </g>
+</g>
+</svg>
