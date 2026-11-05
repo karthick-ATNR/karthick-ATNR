@@ -1,6 +1,6 @@
 <!-- HERO -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/karthick-ATNR/karthick-ATNR/main/assets/portfolio-hero.svg" width="100%" alt="Karthick E — Software Developer Portfolio" />
+  <img src="https://raw.githubusercontent.com/karthick-ATNR/karthick-ATNR/main/assets/portfolio-hero.svg" width="100%" alt="Karthick E — BCA Graduate" />
   <br/><br/>
   <img src="https://avatars.githubusercontent.com/u/292429785?v=4" width="112" height="112" style="border-radius:50%;" alt="Karthick E profile photo" />
   <br/>
@@ -13,7 +13,7 @@
 
 # Hello, I'm Karthick.
 
-I’m a **BCA graduate** focused on backend development, API integration, and building useful software. I enjoy working across the full flow — designing an API, connecting a database, integrating external services, and making the pieces work together.
+I’m a **BCA graduate and aspiring software professional**, currently learning backend development and API integration through hands-on practice. I’m building my skills step by step by exploring how applications communicate, how databases work, and how different services connect.
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Building+with+NestJS+%26+TypeScript;Working+with+REST+APIs+%26+PostgreSQL;Exploring+AI+Agents+%26+Workflow+Automation" alt="Current technical interests"/>
@@ -52,7 +52,7 @@ I’m a **BCA graduate** focused on backend development, API integration, and bu
 
 ---
 
-## Selected work
+## Projects & Practice
 
 <table>
   <tr>
@@ -103,7 +103,7 @@ I’m a **BCA graduate** focused on backend development, API integration, and bu
 
 ---
 
-## Current learning
+## What I'm Learning
 
 - Designing maintainable applications with **NestJS and TypeScript**
 - Building reliable **REST APIs** and integrating external services
