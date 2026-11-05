@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none">
+<defs>
+ <linearGradient id="bg" x1="80" y1="30" x2="1120" y2="400" gradientUnits="userSpaceOnUse"><stop stop-color="#080F1D"/><stop offset=".55" stop-color="#10243A"/><stop offset="1" stop-color="#123D50"/></linearGradient>
+ <linearGradient id="line" x1="680" y1="80" x2="1100" y2="350" gradientUnits="userSpaceOnUse"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" stroke="#A5F3FC" stroke-opacity=".08"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1200" height="420" rx="26" fill="url(#bg)"/><rect width="1200" height="420" rx="26" fill="url(#grid)"/>
+<circle cx="1000" cy="210" r="150" fill="#0891B2" opacity=".12" filter="url(#glow)"/>
+<g opacity=".9"><path d="M770 108h260v204H770z" stroke="url(#line)" stroke-opacity=".55"/><path d="M800 143h86M800 169h140M800 195h110" stroke="#67E8F9" stroke-opacity=".7" stroke-width="5" stroke-linecap="round"/><path d="M800 250l25 22 44-49" stroke="#5EEAD4" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="1000" cy="265" r="34" stroke="#60A5FA" stroke-opacity=".7" stroke-width="2"/><path d="M984 265h32M1000 249v32" stroke="#60A5FA" stroke-width="3" stroke-linecap="round"/></g>
+<path d="M700 80c90-50 210-30 280 25" stroke="#67E8F9" stroke-opacity=".25" stroke-width="2"/><path d="M715 335c100 40 230 25 320-35" stroke="#67E8F9" stroke-opacity=".2" stroke-width="2"/>
+<text x="82" y="112" fill="#67E8F9" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="5">SOFTWARE DEVELOPER PORTFOLIO</text>
+<text x="78" y="205" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2">KARTHICK E.</text>
+<text x="82" y="257" fill="#CBD5E1" font-family="Arial,sans-serif" font-size="25">Backend Development · API Integration</text>
+<text x="82" y="302" fill="#94A3B8" font-family="Arial,sans-serif" font-size="18">NestJS  /  TypeScript  /  PostgreSQL  /  AI Automation</text>
+<rect x="82" y="342" width="178" height="4" rx="2" fill="#22D3EE"/>
+<text x="82" y="380" fill="#64748B" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">LEARN  •  BUILD  •  IMPROVE</text>
+</svg>
